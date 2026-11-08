@@ -1,0 +1,12 @@
+- name: v5-mobile-default
+  params:
+    Rec.ocr_version: PPOCRV5
+    Rec.model_type: MOBILE
+- name: v5-server
+  params:
+    Rec.ocr_version: PPOCRV5
+    Rec.model_type: SERVER
+- name: v4-server
+  params:
+    Rec.ocr_version: PPOCRV4
+    Rec.model_type: SERVER
